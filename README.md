@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kailashappdev-figma-mcp-toolkit-badge.png)](https://mseep.ai/app/kailashappdev-figma-mcp-toolkit)
+
 # Figma to React Native MCP
 
 Convert Figma designs to React Native components using Cursor's MCP. This tool extracts components from your Figma designs and generates corresponding React Native components with proper typing and styling.
